@@ -7,7 +7,7 @@ import {
   fetchMovieImages,
   fetchMovieVideos,
   fetchSimilarMovies
-} from "../features/movies/movieSlice";
+} from "../features/Movies/movieSlice";
 import {resetmovie} from '../features/Movies/movieSlice'
 import { GiFilmProjector } from "react-icons/gi";
 const MovieDetails = () => {
