@@ -124,7 +124,7 @@ const Navbar = () => {
                             </Link>
                         ))
                     }
-                    <Link to='/Favorites '
+                    <Link to='/Favorites '  
                         onClick={() => {
                             setOpenSidebar(false)
                         }}
