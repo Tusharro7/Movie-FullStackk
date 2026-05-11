@@ -97,7 +97,7 @@ const Navbar = () => {
                 <div className='flex items-center justify-between p-6 border-b border-gray-800'>
 
                     <h1 className='text-white text-xl font-bold'>
-                        sidebar
+                        SIDEBAR 
                     </h1>
 
                     <button
@@ -129,7 +129,7 @@ const Navbar = () => {
                             setOpenSidebar(false)
                         }}
                         className='uppercase text-gray-300 text-lg hover:text-white transition flex items-center gap-2 '>
-                        <MdOutlineFavoriteBorder className='text-[3dvh]' /> Favorite
+                         Favorite  <MdOutlineFavoriteBorder className='text-[3.3dvh] items-center' />
                     </Link>
                 </div>
             </div>
